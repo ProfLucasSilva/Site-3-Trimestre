@@ -1,7 +1,25 @@
-body {
-    background: #99CCFF;
+h1 {
+    padding:60px;
+    font-size: 300%;
+    text-align: center;
 }
 
 p {
     color:red;
+}
+
+.aluno1{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 250px;
+}
+
+.aluno2 {
+    float: right;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 250px;
 }
